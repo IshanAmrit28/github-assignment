@@ -1,15 +1,4 @@
 {
-  "project": "Flask API with MongoDB",
-  "version": "1.0",
-  "status": "active",
-  "author": "Ishan Srivastava",
-  "features": [
-    "REST API using Flask",
-    "Reads data from JSON file",
-    "Frontend form submission",
-    "MongoDB Atlas integration",
-    "Error handling",
-    "Virtual environment usage"
-  ],
-  "message": "API is working successfully"
+  "message": "Updated API data",
+  "version": 2
 }
